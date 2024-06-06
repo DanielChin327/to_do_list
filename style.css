@@ -105,3 +105,7 @@ body{
   cursor: pointer;
   outline: none;
 }
+
+.completed{
+    text-decoration: line-through;
+}
