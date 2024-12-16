@@ -9,8 +9,8 @@ body{
   height: 100vh;
   background: linear-gradient(
     135deg,
-    #8052ec,
-    #d161ff
+    #f6f6f6,
+    #ffffff
   );
 }
 
@@ -61,7 +61,7 @@ body{
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  background-color: #8052ec;
+  background-color: #52ec92;
   border: none;
   color: #ffffff;
   cursor: pointer;
@@ -96,7 +96,7 @@ body{
 }
 
 .task button{
-  background-color: #8052ec;
+  background-color: #52ec6e;
   color: #ffffff;
   height: 100%;
   width: 40px;
